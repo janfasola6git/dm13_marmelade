@@ -7,5 +7,6 @@ namespace Feat4
 {
     public class Class1
     {
+        //basic commentS
     }
 }
