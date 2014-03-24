@@ -7,5 +7,6 @@ namespace Feat1
 {
     public class Class1
     {
+        // group 1 changes
     }
 }
