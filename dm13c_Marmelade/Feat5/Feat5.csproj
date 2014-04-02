@@ -39,8 +39,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="QualityAssuranceController.cs" />
+    <Compile Include="QualityAssuranceStep.cs" />
+    <Compile Include="QualityAssuranceTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StepResult.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

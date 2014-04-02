@@ -1,0 +1,12 @@
+C:\Users\matiss\Documents\GitHub\dm13_marmelade\dm13c_Marmelade\dm13c_Marmelade\bin\Debug\dm13c_Marmelade.exe
+C:\Users\matiss\Documents\GitHub\dm13_marmelade\dm13c_Marmelade\dm13c_Marmelade\bin\Debug\dm13c_Marmelade.pdb
+C:\Users\matiss\Documents\GitHub\dm13_marmelade\dm13c_Marmelade\dm13c_Marmelade\obj\Debug\dm13c_Marmelade.csprojResolveAssemblyReference.cache
+C:\Users\matiss\Documents\GitHub\dm13_marmelade\dm13c_Marmelade\dm13c_Marmelade\obj\Debug\MainWindow.baml
+C:\Users\matiss\Documents\GitHub\dm13_marmelade\dm13c_Marmelade\dm13c_Marmelade\obj\Debug\MainWindow.g.cs
+C:\Users\matiss\Documents\GitHub\dm13_marmelade\dm13c_Marmelade\dm13c_Marmelade\obj\Debug\App.g.cs
+C:\Users\matiss\Documents\GitHub\dm13_marmelade\dm13c_Marmelade\dm13c_Marmelade\obj\Debug\dm13c_Marmelade_MarkupCompile.cache
+C:\Users\matiss\Documents\GitHub\dm13_marmelade\dm13c_Marmelade\dm13c_Marmelade\obj\Debug\dm13c_Marmelade.g.resources
+C:\Users\matiss\Documents\GitHub\dm13_marmelade\dm13c_Marmelade\dm13c_Marmelade\obj\Debug\dm13c_Marmelade.Properties.Resources.resources
+C:\Users\matiss\Documents\GitHub\dm13_marmelade\dm13c_Marmelade\dm13c_Marmelade\obj\Debug\dm13c_Marmelade.csproj.GenerateResource.Cache
+C:\Users\matiss\Documents\GitHub\dm13_marmelade\dm13c_Marmelade\dm13c_Marmelade\obj\Debug\dm13c_Marmelade.exe
+C:\Users\matiss\Documents\GitHub\dm13_marmelade\dm13c_Marmelade\dm13c_Marmelade\obj\Debug\dm13c_Marmelade.pdb
